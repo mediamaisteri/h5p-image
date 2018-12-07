@@ -12,62 +12,8 @@
       "description": "Valgfritt. Denne teksten vises når brukeren holder pekeenheten over bildet."
     },
     {
-      "label": "Informasjon om opphavsrett",
-      "fields": [
-        {
-          "label": "Tittel"
-        },
-        {
-          "label": "Opphavsmann"
-        },
-        {
-          "label": "Kilde"
-        },
-        {
-          "label": "Lisens",
-          "options": [
-            {
-              "label": "Ukjent"
-            },
-            {
-              "label": "Navngivelse"
-            },
-            {
-              "label": "Navngivelse - Del på samme vilkår"
-            },
-            {
-              "label": "Navngivelse - Ingen bearbeidelse"
-            },
-            {
-              "label": "Navngivelse - Ikke kommersiell"
-            },
-            {
-              "label": "Navngivelse - Ikke kommersiell - Del på samme vilkår"
-            },
-            {
-              "label": "Navngivelse - Ikke kommersiell - Ingen bearbeidelse"
-            },
-            {
-              "label": "Generell offentlig lisens"
-            },
-            {
-              "label": "Offentlig eiendom"
-            },
-            {
-              "label": "Offentlig eiendom engasjement og lisens"
-            },
-            {
-              "label": "Offentlig eiendom merke"
-            },
-            {
-              "label": "Opphavsrett"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Innholdsnavn for bilde"
+      "label": "Innholdsnavn for bilde",
+      "default": "Image"
     }
   ]
 }
